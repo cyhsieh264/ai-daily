@@ -1,0 +1,6 @@
+.DS_Store
+
+# Claude Design canvas working files, not part of the published site
+ai-daily.html
+*.dc.html
+canvas.json
